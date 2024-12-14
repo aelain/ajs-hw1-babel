@@ -9,13 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aelain/ajs-hw1-babel.git"
+    "url": "git+ssh://git@github.com/aelain/ajs-hw1-babel.git"
   },
   "keywords": [
     "game"
   ],
   "author": "Diana Avedisyan",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelain/ajs-hw1-babel/issues"
+  },
+  "homepage": "https://github.com/aelain/ajs-hw1-babel#readme",
   "devDependencies": {
     "@babel/cli": "^7.26.4",
     "@babel/core": "^7.26.0",
